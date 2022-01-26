@@ -664,6 +664,7 @@
 			"en_us":"BlackShark One"
 		},
 		"state":{
+			"bluetooth":"y"
 		},
 		"message":{
 		}
